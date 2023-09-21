@@ -1,4 +1,5 @@
 # HR-analytics-Dashboard- MYSQL-POWERBI 
+([https://app.powerbi.com/view?r=eyJrIjoiOTM3YjcxZTQtZWE2YS00OTQ4LWFkNWYtNzhiOGQ1Y2I0YTYzIiwidCI6Ijk5ZTEwNDcyLWU4N2QtNGRhYS04NzAyLWI3ODUwN2VjMTI4MyJ9])
 ![Screenshot (18)](https://github.com/vinith2523/hranalytics/assets/145689777/e9643807-a74b-4cfa-a232-72799945c14f)
 
 ## Data Used
